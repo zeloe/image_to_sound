@@ -12,3 +12,6 @@ you will need to install osc5 (external library) for processing to process OSC m
 first run the processing file, pd patch and then the python file. 
 make sure that you edit path for images in the python file and load a sample into the pd patch. \
 the rest is up to you :)
+
+## to see how it looks
+[youtube](https://www.youtube.com/watch?v=1TGCDIPU9M4)
